@@ -2,7 +2,7 @@
   "name": "zammonv-profile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Zammon.github.io/zammonv-profile",
+  "homepage": "https://zammon.github.io/zammonv-profile",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
